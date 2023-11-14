@@ -1,0 +1,33 @@
+Title: General Vehicle Service Interval Guide
+
+Document Version: 1.0
+
+Author: Chatbot Mechanic Team
+
+Introduction:
+Regular maintenance is crucial for the longevity and performance of your vehicle. This guide provides a general framework for service intervals. For model-specific intervals, refer to your vehicle’s owner’s manual or manufacturer’s recommendations.
+
+Service Intervals Overview:
+
+Oil and Filter Change:
+Every 3,000 to 7,000 miles, depending on vehicle make, model, and oil type.
+Tire Rotation and Balance:
+Every 5,000 to 7,500 miles to ensure even tire wear and prolong tire life.
+Brake Inspection:
+At least once a year or every 12,000 miles, whichever comes first.
+Air Filter Replacement:
+Every 15,000 to 30,000 miles to maintain engine performance and efficiency.
+Fuel Filter Replacement:
+Every 20,000 to 40,000 miles to protect fuel system components and improve engine performance.
+Coolant Flush:
+Every 40,000 to 100,000 miles to prevent overheating and corrosion within the cooling system.
+Transmission Fluid Change:
+Every 30,000 to 60,000 miles for manual transmissions and 60,000 to 100,000 miles for automatic transmissions.
+Spark Plugs and Ignition System:
+Every 30,000 to 100,000 miles, depending on the type of spark plugs and vehicle usage.
+Timing Belt Replacement:
+Between 60,000 and 100,000 miles to avoid costly engine damage.
+Battery Inspection and Replacement:
+Battery life varies, but they typically last between 3 and 5 years. Inspect annually after the third year.
+Document Conclusion:
+Adhering to a regular maintenance schedule is essential to keeping your vehicle running smoothly and avoiding costly repairs. Keep records of all maintenance performed and be attentive to any changes in your vehicle’s performance. Remember, this guide provides general recommendations; always follow your vehicle’s specific maintenance schedule.
