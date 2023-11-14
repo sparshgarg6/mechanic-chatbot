@@ -1,0 +1,51 @@
+Title: Vehicle Noise Issue Troubleshooting Tree
+
+Document Version: 1.0
+
+Author: Chatbot Mechanic Team
+
+Introduction:
+Unusual noises from a vehicle can indicate various problems. This troubleshooting tree helps isolate the source and nature of the noise for further action.
+
+Troubleshooting Procedure:
+
+1. When do you hear the noise?
+
+During Startup: Go to step 2.
+While Driving: Go to step 5.
+When Braking: Go to step 8.
+2. Is the noise coming from the engine bay at startup?
+
+YES: Go to step 3.
+NO: The noise may be from the exhaust system or undercarriage; further inspection is needed.
+3. Does the noise persist after the engine warms up?
+
+YES: Possible issues with engine components. Proceed to step 4.
+NO: Noise during cold starts may be normal. If it's loud or unusual, consult a mechanic.
+4. Is the noise a clicking or tapping sound?
+
+YES: Check the engine oil level; a valve train or lifter noise could indicate low oil pressure.
+NO: A deeper inspection of the engine's internal components may be necessary.
+5. Does the noise occur at a specific speed or driving condition?
+
+YES: Note the speed and condition. Proceed to step 6.
+NO: If the noise is random, inspect the wheels and tires for damage or debris.
+6. Is the noise a squeal or whine that changes with engine speed?
+
+YES: Inspect the drive belts and pulleys for wear and tension.
+NO: Go to step 7.
+7. Is the noise a rumble or humming that increases with speed?
+
+YES: This could indicate a wheel bearing or differential problem.
+NO: The noise may be related to the transmission or a CV joint.
+8. Does the noise happen when the vehicle is braking?
+
+YES: Go to step 9.
+NO: If the noise isn't related to braking, revisit other steps for driving-related noises.
+9. Is the brake noise a squeaking or grinding sound?
+
+YES: Inspect the brake pads for wear. If they are thin or metal is exposed, they need replacement.
+NO: A soft or pulsating noise may be related to the brake rotors or hardware.
+Document Conclusion:
+This guide aims to assist in narrowing down the source of noises in a vehicle. Accurately diagnosing car noises can be challenging and often requires a professional mechanic's evaluation. If the noise indicates a serious issue or if you're unsure, it's best to seek professional assistance.
+

@@ -1,0 +1,41 @@
+Title: Engine Starting Trouble Troubleshooting Tree
+
+Document Version: 1.0
+
+Author: Chatbot Mechanic Team
+
+Introduction:
+Troubleshooting trees are valuable tools for diagnosing car problems. This text-based troubleshooting tree is for use when a car does not start properly. It simplifies diagnosing the issue by guiding you through a series of yes/no questions based on symptoms.
+
+Troubleshooting Procedure:
+
+1. When you turn the key in the ignition, does the engine crank?
+
+YES: Go to step 2.
+NO: Go to step 6.
+2. Does the engine crank normally, but still fails to start?
+
+YES: Go to step 3.
+NO: Consider battery or starter motor issues and consult a mechanic.
+3. Do you have enough fuel in the tank?
+
+YES: Go to step 4.
+NO: Refuel and try to start the engine again.
+4. Is the Check Engine Light on?
+
+YES: Use an OBD-II scanner to check for codes that may indicate the problem.
+NO: Go to step 5.
+5. Is there a spark when you try to start the engine?
+
+YES: The issue may be with the fuel system. Check fuel pump, filter, and injectors.
+NO: The problem may be with the ignition system. Check spark plugs, wires, and coils.
+6. When you turn the key, do you hear a single click or no sound at all?
+
+YES: The issue may be with the starter motor or battery. Check battery charge and connections, or test the starter.
+NO: Go to step 7.
+7. Do the dashboard lights dim significantly when attempting to start?
+
+YES: This typically indicates a weak battery. Charge or replace the battery.
+NO: The issue may not be electrical. Check the main fuses and relays.
+Document Conclusion:
+This troubleshooting tree is a basic guide to diagnosing a common problem when an engine is having trouble starting. For more detailed diagnostics, it is advisable to consult the vehicle's service manual or a professional mechanic.

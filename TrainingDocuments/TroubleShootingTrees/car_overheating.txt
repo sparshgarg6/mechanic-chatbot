@@ -1,0 +1,46 @@
+Title: Car Overheating Troubleshooting Tree
+
+Document Version: 1.0
+
+Author: Chatbot Mechanic Team
+
+Introduction:
+Overheating can cause significant damage to an engine. This troubleshooting tree is designed to help identify possible causes of overheating and guide you through a step-by-step diagnostic process.
+
+Troubleshooting Procedure:
+
+1. Does the overheating occur during idle or at low speeds?
+
+YES: Go to step 2.
+NO: Go to step 5.
+2. Does turning on the heater reduce the overheating?
+
+YES: The issue may be with the radiator or its fan. Proceed to step 3.
+NO: Go to step 4.
+3. Does the radiator fan turn on when the engine gets hot?
+
+YES: Check for blockages in the radiator or issues with the coolant mixture.
+NO: Inspect the fan motor, relay, fuse, and temperature sensor.
+4. Is there white smoke coming from the exhaust?
+
+YES: This could indicate a head gasket leak. Seek professional help.
+NO: Check for low coolant levels or possible leaks in the cooling system.
+5. Does the overheating happen at high speeds or under load?
+
+YES: Go to step 6.
+NO: Go to step 7.
+6. Does the car have sufficient coolant?
+
+YES: Check for a clogged radiator, malfunctioning water pump, or restricted hoses.
+NO: Refill the coolant and look for leaks.
+7. Does the car lose power before overheating?
+
+YES: This may suggest a problem with the engine's combustion process. Consult a mechanic.
+NO: Check if the thermostat opens; if not, it may need replacement.
+8. After refilling coolant, does the overheating persist?
+
+YES: There may be an internal leak or a more serious engine issue. Professional diagnosis is required.
+NO: Monitor the coolant level and temperature gauge for any further issues.
+Document Conclusion:
+This troubleshooting tree provides a structured approach to diagnosing an overheating car. Due to the potential for serious engine damage, it's important to address overheating issues promptly. If the problem remains unresolved or if you are unsure at any point, consult a professional mechanic.
+
