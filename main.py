@@ -1,7 +1,7 @@
 import os
 import streamlit as st
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = 'your-key-here' #input your OpenAI API Key
 
 from llama_index import GPTVectorStoreIndex, SimpleDirectoryReader
 
@@ -15,7 +15,7 @@ subdirectories = [
 ]
 
 # Base directory path
-base_dir = '/Users/sparshgarg/PycharmProjects/CourseraChatbot/TrainingDocuments/'
+base_dir = '/Users/sparshgarg/mechanicChatbot/TrainingDocuments/'
 
 # Initialize an empty list to hold all documents
 all_documents = []
@@ -33,13 +33,13 @@ print(all_documents)
 index = GPTVectorStoreIndex.from_documents(documents)
 
 # Save the index
-index.storage_context.persist('/Users/sparshgarg/PycharmProjects/CourseraChatbot/TrainingDocuments')
+index.storage_context.persist('/Users/sparshgarg/mechanicChatbot/TrainingDocuments')
 
 from llama_index import StorageContext, load_index_from_storage
 
 # rebuild storage context
 storage_context = StorageContext.from_defaults(
-                  persist_dir='/Users/sparshgarg/PycharmProjects/CourseraChatbot/TrainingDocuments')
+                  persist_dir='/Users/sparshgarg/mechanicChatbot/TrainingDocuments')
 
 # load index
 index = load_index_from_storage(storage_context)
@@ -92,7 +92,7 @@ def main():
     # Check if user ID is provided
     if user_id:
         # Create chatbot instance for the user
-        bot = Chatbot("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 ", index, user_id)
+        bot = Chatbot("your-API-key ", index, user_id) #input your API key here as well.
 
         # Load chat history
         bot.load_chat_history()
