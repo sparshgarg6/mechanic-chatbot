@@ -1,0 +1,71 @@
+Title: Common Car Symptoms and Basic Diagnostics Guide
+
+Document Version: 1.0
+
+Author: Chatbot Mechanic Team
+
+Symptom: Engine Won't Start
+
+Possible Causes:
+Dead battery
+Faulty ignition switch
+Defective starter motor
+Empty fuel tank or clogged fuel filter
+Basic Diagnostics:
+Check battery voltage and terminals.
+Test ignition switch with a multimeter.
+Perform starter motor bench test.
+Inspect fuel level and filter for blockages.
+
+Symptom: Car is Overheating
+
+Possible Causes:
+Low coolant level
+Malfunctioning thermostat
+Cooling system leaks
+Faulty water pump
+Basic Diagnostics:
+Inspect coolant level and refill if necessary.
+Test thermostat operation in hot water.
+Check for leaks in radiator and hoses.
+Assess water pump for leakage and noise.
+
+Symptom: Brakes Squealing or Grinding
+
+Possible Causes:
+Worn brake pads or shoes
+Damaged rotors or drums
+Debris in the braking system
+Lack of lubrication on brake components
+Basic Diagnostics:
+Visually inspect brake pads and shoes for wear.
+Check rotors and drums for scoring or damage.
+Clean and remove any debris from the braking system.
+Apply appropriate lubricant to moving parts without contaminating brake pads.
+
+Symptom: Steering Wheel Vibrations
+
+Possible Causes:
+Unbalanced tires
+Misaligned wheels
+Worn steering components
+Faulty suspension parts
+Basic Diagnostics:
+Perform wheel balancing and alignment.
+Inspect steering components for wear or damage.
+Check suspension parts like shocks, struts, and bushings.
+
+Symptom: Check Engine Light On
+
+Possible Causes:
+Emissions control issues
+Sensor malfunctions
+Engine performance problems
+Transmission issues
+Basic Diagnostics:
+Use an OBD-II scanner to retrieve diagnostic trouble codes.
+Inspect related components based on the trouble code.
+Test sensors and replace if faulty.
+Document Conclusion
+This document is intended to provide a basic overview of common car symptoms and a starting point for diagnostics. In-depth troubleshooting should be conducted by qualified professionals. Always consult vehicle-specific repair manuals and follow safety procedures when performing any diagnostic tests.
+
